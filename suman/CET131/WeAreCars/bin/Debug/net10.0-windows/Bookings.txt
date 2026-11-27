@@ -1,0 +1,5 @@
+WeAreCars bookings (JSON Lines)
+{"Id":"7dadb0f3-ab7c-4757-853e-937d1f4e5705","BookedAt":"2026-10-10 14:27:45","FirstName":"Suman","Surname":"Sharma","Address":"Nepal","Age":18,"ValidLicense":true,"Days":19,"CarType":"Sports","FuelType":"Hybrid","UnlimitedMileage":true,"BreakdownCover":true,"Total":808}
+{"Id":"708e6b59-682e-4f2c-8282-3ca45f67d99b","BookedAt":"2026-10-10 19:07:25","FirstName":"Abhisek","Surname":"kumal","Address":"Banepa","Age":18,"ValidLicense":true,"Days":2,"CarType":"City","FuelType":"Electric","UnlimitedMileage":true,"BreakdownCover":true,"Total":124}
+{"Id":"59c00956-1d37-4c29-bdbb-bea669694f18","BookedAt":"2026-10-13 07:14:44","FirstName":"sum","Surname":"sharma","Address":"ktm","Age":20,"ValidLicense":true,"Days":26,"CarType":"Sports","FuelType":"Hybrid","UnlimitedMileage":true,"BreakdownCover":false,"Total":1015}
+{"Id":"ed14d5da-efe5-42d7-b98e-7e768008349a","BookedAt":"2026-10-15 19:57:37","FirstName":"Oken","Surname":"Jon","Address":"Nepa","Age":18,"ValidLicense":true,"Days":20,"CarType":"Family","FuelType":"Hybrid","UnlimitedMileage":false,"BreakdownCover":false,"Total":580}
